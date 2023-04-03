@@ -25,6 +25,10 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/MarioAparcero"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marioaparcero"
       }
     ]
   },
@@ -408,6 +412,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/marioaparcero"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
