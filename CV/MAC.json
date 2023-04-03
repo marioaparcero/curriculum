@@ -425,6 +425,14 @@
           "name": "CodeIgniter",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Administration",
+        "Director / General Manager",
+        "Project Manager & Delivery Manager",
+        "Scrum Master & Agile Coach",
+        "Security Engineer",
+        "SysAdmin"
       ]
     },
     "status": "searchingActively"
