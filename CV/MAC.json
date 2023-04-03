@@ -1,0 +1,386 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Mario",
+      "surnames": "Aparcero",
+      "title": "Jefe de proyecto, administrador de sistemas y experto en ciberseguridad.",
+      "description": "Hola, mi nombre es Mario Aparcero. Soy jefe de proyectos con experiencia en liderazgo y dirección de equipos desde 2016. Además, soy experto en ciberseguridad y administrador de sistemas informáticos en red.\n\nEn mi carrera profesional he demostrado ser una persona proactiva y resolutiva ante retos y problemas. Mis principales aptitudes son la capacidad de liderazgo, la adaptabilidad y la habilidad para trabajar en equipo.\n\nEstoy emocionado por tener la oportunidad de presentarme ante ustedes y compartir más sobre mis experiencias y habilidades. Gracias por considerarme para esta posición.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Overwatch Galaxy"
+        },
+        "roles": [
+          {
+            "name": "Jefe de proyectos",
+            "startDate": "2020-07-01",
+            "challenges": [
+              {
+                "description": "Responsable del proyecto y gestión de equipos de personas distribuidas en diferentes departamentos. (Marketing, Control de Gestión, Recursos Humanos, Desarrolladores, Diseñadores, Editores, Community Manager) \n\nMi función como Scrum Master es ayudar al equipo a trabajar de manera autónoma y eficiente, eliminando obstáculos y promoviendo la comunicación y colaboración entre los miembros del equipo usando metodologías ágiles para la gestión de proyectos que se utilizan en el desarrollo de software. \n\nEncargado de agilizar el proceso de desarrollo y entrega de software con la integración continua (CI) y el despliegue continuo (CD), utilizandolas en conjunto para mejorar la eficiencia del proceso de desarrollo. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Hotels Network"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de sistemas",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Encargado de diseñar, operar y mantener la infraestructura crítica de los sistemas informáticos en línea de la empresa. Esto incluye la operación y mantenimiento de la infraestructura, así como servicios de virtualización, cloud computing y almacenamiento ofrecidos a clientes internos como base para la prestación de servicios a usuarios finales.\n\nTambién responsable de la planificación y operación de sistemas TI de apoyo a la gestión interna, como copias de seguridad de los clusters de Kubernetes, el desarrollo y mantenimiento de sistemas de información para apoyar la ejecución y gestión de procesos internos, y el diseño y desarrollo de herramientas tecnológicas para implementar servicios para usuarios externos. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inmobiliaria El Faro"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas informáticos",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Encargado de configurar, mantener y administrar sistemas informáticos, gestionar servicios de red, sistemas operativos y software, garantizando su funcionalidad, integridad y seguridad. Responsable de asegurar que los sistemas informáticos y las redes de la empresa funcionen correctamente. Esto puede incluir tareas como instalar y configurar software y servicios en red, gestionar usuarios y accesos a los empleados de la empresa, implementar y gestionar las bases de datos necesarias y evaluar el rendimiento de los dispositivos del sistema."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Syndicate"
+        },
+        "roles": [
+          {
+            "name": "Jefe de proyectos",
+            "startDate": "2016-08-01",
+            "finishDate": "2018-11-01",
+            "challenges": [
+              {
+                "description": "Responsable de que el proyecto se complete a tiempo, dentro del presupuesto, y de que este cumpla los objetivos fijados siguiendo las metodologías ágiles. Supervisor, control y gestión del equipo de trabajo, asegurándome de que se usan los recursos más eficientes y de que todas las partes implicadas quedan satisfechas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inmobiliaria Costa Noroeste"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas informáticos",
+            "startDate": "2015-07-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "Encargado de configurar, mantener y administrar sistemas informáticos, gestionar servicios de red, sistemas operativos y software, garantizando su funcionalidad, integridad y seguridad. Responsable de asegurar que los sistemas informáticos y las redes de la empresa funcionen correctamente. Esto puede incluir tareas como instalar y configurar software y servicios en red, gestionar usuarios y accesos a los empleados de la empresa, implementar y gestionar las bases de datos necesarias y evaluar el rendimiento de los dispositivos del sistema."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ayuntamiento de Chipiona"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2015-06-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "Responsable de instalar y configurar hardware y software, controlar los servidores de red y las herramientas tecnológicas, copias de seguridad, configurar y gestionar las cuentas de los usuarios, gestionar los permisos y derechos de acceso, supervisar, mantener y actualizar los equipos y sistemas de trabajo. Coordinación con el departamento de desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AB Internet Networks SL"
+        },
+        "roles": [
+          {
+            "name": "Redactor de contenidos web",
+            "startDate": "2013-05-01",
+            "finishDate": "2013-07-01",
+            "challenges": [
+              {
+                "description": "Responsable de crear y publicar contenido en línea para sitios webs.\nEncargado de analizar y escribir artículos, publicaciones en blogs y redes sociales, y cualquier otro tipo de contenido que pueda ser relevante la audiencia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CEIP Maestro Manuel Aparcero"
+        },
+        "roles": [
+          {
+            "name": "Webmaster",
+            "startDate": "2010-03-01",
+            "finishDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "Responsable del desarrollo, correcto funcionamiento y mantenimiento de una página web. Director del proyecto y administrador de la web de un colegio. Esto puede incluir tareas como actualizar el contenido del sitio web, asegurarse de que la página sea fácil de usar y navegar, tenga accesibilidad y supervisar aspectos técnicos como el alojamiento y la seguridad del sitio web. También organicé varios blogs de un proyecto europeo llamado Comenius."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-Admin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LDAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google AdWords",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS IAM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFront",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Cloudwatch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Audition",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Active Directory",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
