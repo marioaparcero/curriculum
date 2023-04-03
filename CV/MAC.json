@@ -410,6 +410,10 @@
         {
           "name": "Kubernetes",
           "type": "technology"
+        },
+        {
+          "name": "Trello",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
