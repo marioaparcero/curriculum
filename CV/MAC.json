@@ -381,6 +381,48 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bitbucket",
+          "type": "technology"
+        },
+        {
+          "name": "CircleCI",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "3D Studio Max",
+          "type": "technology"
+        },
+        {
+          "name": "CodeIgniter",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
