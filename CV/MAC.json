@@ -11,9 +11,22 @@
       "title": "Jefe de proyecto, administrador de sistemas y experto en ciberseguridad.",
       "description": "Hola, mi nombre es Mario Aparcero. Soy jefe de proyectos con experiencia en liderazgo y dirección de equipos desde 2016. Además, soy experto en ciberseguridad y administrador de sistemas informáticos en red.\n\nEn mi carrera profesional he demostrado ser una persona proactiva y resolutiva ante retos y problemas. Mis principales aptitudes son la capacidad de liderazgo, la adaptabilidad y la habilidad para trabajar en equipo.\n\nEstoy emocionado por tener la oportunidad de presentarme ante ustedes y compartir más sobre mis experiencias y habilidades. Gracias por considerarme para esta posición.",
       "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/marioaparcero"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/MarioAparcero"
+      }
+    ]
   },
   "experience": {
     "jobs": [
