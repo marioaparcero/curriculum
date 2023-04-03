@@ -189,43 +189,115 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "WordPress",
+          "name": "C++",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "YAML",
+          "name": "MariaDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS CloudFront",
+          "name": "Apache",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS Cloudwatch",
+          "name": "Adobe Audition",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github Actions",
+          "name": "Microsoft Active Directory",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JetPack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Metricool",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Raspberry",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WooCommerce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zapier",
           "type": "technology"
         }
       },
@@ -249,181 +321,7 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Premiere Pro",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "S3",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elementor",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Sheets",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hootsuite",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS-Admin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prestashop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "LDAP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS IAM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Audition",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Dreamweaver",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPMyAdmin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google AdWords",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
           "type": "technology"
         }
       },
@@ -435,19 +333,205 @@
       },
       {
         "skill": {
-          "name": "AWS EC2",
+          "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Active Directory",
+          "name": "Github Actions",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IIS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Metasploit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pfsense",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-Admin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LDAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS IAM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google AdWords",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFront",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Cloudwatch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
           "type": "technology"
         }
       },
@@ -465,25 +549,31 @@
       },
       {
         "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Hyper-v",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "IIS",
+          "name": "Elementor",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Joomla",
+          "name": "Hootsuite",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JetPack",
+          "name": "JSON",
           "type": "technology"
         }
       },
@@ -495,25 +585,13 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Joomla",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Nginx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Lua",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
+          "name": "Microsoft",
           "type": "technology"
         }
       },
@@ -525,7 +603,31 @@
       },
       {
         "skill": {
-          "name": "Microsoft",
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lua",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Matlab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magento",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
           "type": "technology"
         }
       },
@@ -543,61 +645,73 @@
       },
       {
         "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Metasploit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Debian",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Magento",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NPM",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "PowerShell",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Matlab",
+          "name": "Plesk",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Metricool",
+          "name": "Search Console",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Samba",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Typeform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Twitter Ads",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Wireshark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zoho",
           "type": "technology"
         }
       }
